@@ -1,0 +1,9 @@
+//int balance=25000;
+//int total;
+int pinc;
+int mobile();
+int pin_change();
+int bal_enquiry();
+int withdraw();
+int deposit();   
+int display();

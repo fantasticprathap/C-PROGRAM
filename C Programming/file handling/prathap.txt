@@ -1,0 +1,3 @@
+The student name is:ing
+The student age is:27
+The student college name is:vcet 
