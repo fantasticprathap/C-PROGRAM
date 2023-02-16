@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<time.h>
-#include"step2.h"
+#include"clock.h"
 int date()
 {
 	time_t t;

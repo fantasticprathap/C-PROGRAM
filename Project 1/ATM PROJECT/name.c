@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include "step1.h"
+#include "name.h"
 int intro()
 {
 	char user_name[100],name[100];

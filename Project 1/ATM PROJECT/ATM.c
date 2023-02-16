@@ -6,10 +6,10 @@
 #include<stdio.h>
 #include<string.h>
 #include<windows.h>
-#include "step1.h"
-#include "step2.h"
-#include "step3.h"
-#include "step4.h"
+#include "name.h"
+#include "clock.h"
+#include "screen.h"
+#include "work.h"
 int main()
 {
 	system("COLOR A0");
